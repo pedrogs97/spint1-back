@@ -4,9 +4,9 @@ Este projeto consiste em colocar em prática os conteúdos aprendidos durante a 
 
 # Projeto
 
-## ToDo List
+## Stock App
 
-O projeto foi desenvolvido com o framework Django e consiste em uma API para listar, criar, editar e excluir lista de atividades que o usuário deseja realizar.
+O projeto foi desenvolvido com o framework Django e consiste em uma API para listar, buscar um item específico, criar, editar e excluir produtos de um estoque.
 
 ## Executar o projeto
 

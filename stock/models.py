@@ -5,7 +5,7 @@ from django.db import models
 class Material(models.Model):
     """Material model"""
 
-    id = models.BigIntegerField(primary_key=True, db_index=True)
+    id = models.BigAutoField(primary_key=True, db_index=True)
     name = models.CharField(max_length=50)
     description = models.CharField(max_length=150, blank=True)
     observation = models.CharField(max_length=150, blank=True)
